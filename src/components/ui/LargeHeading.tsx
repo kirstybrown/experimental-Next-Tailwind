@@ -36,6 +36,6 @@ export interface LargeHeadingProps extends HTMLAttributes<HTMLHeadingElement>,
     );
 });
 
-LargeHeading.displayName = 'Paragraph';
+LargeHeading.displayName = 'LargeHeading';
 
 export default LargeHeading;
